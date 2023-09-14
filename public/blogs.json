@@ -1,0 +1,72 @@
+[
+    {
+        "id": "12345",
+        "cover": "https://i.ibb.co/3FBY1fJ/blog3.jpg",
+        "title": "The Enchanted Forest",
+        "author": "Eleanor Green",
+        "author_img": "https://i.ibb.co/47BLTN7/boy1.png",
+        "posted_date": "2023-09-14",
+        "reading_time": 20,
+        "hashtags": [
+            "fantasy",
+            "adventure",
+            "magic"
+        ]
+    },
+    {
+        "id": "67890",
+        "cover": "https://i.ibb.co/9NHnJr0/blog1.jpg",
+        "title": "Mystery at Midnight Manor",
+        "author": "Jonathan Blackwood",
+        "author_img": "https://i.ibb.co/jHBr7YS/girl1.jpg",
+        "posted_date": "2023-09-15",
+        "reading_time": 25,
+        "hashtags": [
+            "mystery",
+            "suspense",
+            "detective"
+        ]
+    },
+    {
+        "id": "13579",
+        "cover": "https://i.ibb.co/0jRwyy8/blog5.jpg",
+        "title": "The Galactic Odyssey",
+        "author": "Alex Starfield",
+        "author_img": "https://i.ibb.co/t437qzV/boy2.jpg",
+        "posted_date": "2023-09-16",
+        "reading_time": 30,
+        "hashtags": [
+            "science fiction",
+            "space",
+            "exploration"
+        ]
+    },
+    {
+        "id": "24680",
+        "cover": "https://i.ibb.co/p1xnJSm/blog2.jpg",
+        "title": "Cooking with Passion",
+        "author": "Isabella Flame",
+        "author_img": "https://i.ibb.co/vPqkhY8/profile.png",
+        "posted_date": "2023-09-17",
+        "reading_time": 15,
+        "hashtags": [
+            "cooking",
+            "recipes",
+            "food"
+        ]
+    },
+    {
+        "id": "98765",
+        "cover": "https://i.ibb.co/b1j20HM/blog4.jpg",
+        "title": "In Search of Atlantis",
+        "author": "David Oceanborn",
+        "author_img": "https://i.ibb.co/2WFQ5yf/girl2.jpg",
+        "posted_date": "2023-09-18",
+        "reading_time": 35,
+        "hashtags": [
+            "adventure",
+            "mythology",
+            "exploration"
+        ]
+    }
+]
